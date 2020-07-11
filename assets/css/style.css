@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+h1, h2 {
+    font-size: 48px;
+    color: #000000;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 16px;
+    color: #000000;
+}
+
+a {
+    font-size: 16px;
+    color: #fff!important;
+}
+
+a:hover {
+    font-size: 16px;
+    color: #fff!important;
+    text-decoration: none;
+}
+.btn{
+  background: #fff;
+  border-radius: 1px solid black;
+ 
+}
+.btn:hover{
+  background: #fff;
+}
+
+/** NAVIGATION STYLING STARTS HERE **/
+
+nav {
+    background: #fff;
+}
+.nav-item .nav-link:hover{
+  color: #000!important;
+}
+.active .nav-link {
+    color: #000000 !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #000 !important;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.header-links a{
+  color: #000!important;
+}
+#footer{
+  background-color: #242424;
+  color: #FFFEF8;
+}
+
+footer h1, h2{
+  color: #FFFEF8;
+  font-weight: 100;
+}
+
+
+
